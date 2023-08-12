@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+    text-align: center;
+    background-size: 100%;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 20px;
+    border-left: solid whitesmoke;
+    border-right: solid whitesmoke;
+    border-top: solid whitesmoke;
+    
+
+
+
+    
+}
+h1{
+    color: white;
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+}
+#menu{
+    color: black;
+    display: flex ;
+    text-align: center;
+    justify-content: center;
+}
+h3{
+    color: black;
+    display: flex ;
+    text-align: center;
+    justify-content: center;
+}
+h1{
+    background-color: black;
+}
+
+h3{
+    background-color: whitesmoke;
+}
+footer{
+    background-color: whitesmoke;
+    color: white;
+    margin-top: 100%;
+}
+.imagemDeFundo{
+    width: 150px;
+    height: 150px;
+    margin-right: 90%;
+}
+
+
+
+
+
+
+

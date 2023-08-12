@@ -1,0 +1,61 @@
+body{
+    margin: 20px auto;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 20px;
+    border-left: solid whitesmoke;
+    border-right: solid whitesmoke;
+    border-top: solid whitesmoke;
+}
+
+.menu{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: black;
+    text-align: center;
+    background-size: 100%;
+    
+}
+h1{
+    color: white;
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+}
+.menu{
+    color: black;
+    display: flex ;
+    text-align: center;
+    justify-content: center;
+}
+h3{
+    color: white;
+    display: flex ;
+    text-align: center;
+    justify-content: center;
+}
+h1{
+    background-color: black;
+}
+
+h3{
+    background-color: black;
+}
+.Creditos{
+    color: whitesmoke;
+    text-align: left;
+}
+
+h2{
+    color: whitesmoke;
+}
+
+footer{
+    color: white;
+}
+
+

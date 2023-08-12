@@ -1,0 +1,59 @@
+
+body {
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 20px;
+    border-left: solid whitesmoke;
+    border-right: solid whitesmoke;
+    border-top: solid whitesmoke
+
+
+}
+
+h2 {
+    color: whitesmoke;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+div.Nike1 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+h5 {
+    color: whitesmoke;
+    text-align: center;
+    justify-content: center;
+}
+
+h4 {
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.menu {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+h1{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    color: white;
+    margin-top: 17.5%;
+}
